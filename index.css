@@ -8,17 +8,15 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-
-  width: 1200px;
+  width: 1160px;
   margin: 0px auto;
+  border: 2px solid #202f45;
 }
-
-/* main-content */
 
 .main-content {
   background-color: #ffffff;
-  padding: 40px 60px;
-  border: 2px solid #202f45;
+  padding: 40px 90px;
+  width: 650px;
 }
 
 /* about */
@@ -47,15 +45,9 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  width: 400px;
+  /* width: 400px; */
   margin: 0px;
   color: #000000;
-}
-
-/* project styles*/
-
-.project {
-  /* margin-bottom: 50px; */
 }
 
 .project,
@@ -107,9 +99,9 @@ body {
 }
 
 /* work */
-.work {
+/* .work {
   width: 525px;
-}
+} */
 
 .work-position {
   font-style: normal;
@@ -182,10 +174,7 @@ body {
 .sidebar {
   background-color: #021f3f;
   padding-top: 40px;
-  width: 370px;
-  border-left: 2px solid #202f45;
-  border-bottom: 2px solid #202f45;
-  border-top: 2px solid #202f45;
+  width: 450px;
 }
 .photo {
   width: 200px;
