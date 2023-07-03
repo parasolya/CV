@@ -10,7 +10,7 @@ body {
   flex-direction: row-reverse;
   width: 1160px;
   margin: 0px auto;
-  border: 2px solid #202f45;
+  border: 2px solid #ffffff;
 }
 
 .main-content {
@@ -135,6 +135,7 @@ body {
   line-height: 15px;
   color: #000000;
   margin-left: 10px;
+  margin-bottom: 15px;
 }
 
 .line {
@@ -186,6 +187,9 @@ body {
 .tech-skills,
 .soft-skills {
   margin: 40px 40px 120px 40px;
+}
+.soft-skills {
+  margin: 40px 40px 115px 40px;
 }
 
 .contacts {
