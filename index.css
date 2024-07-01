@@ -179,21 +179,21 @@ body {
 }
 .photo {
   width: 200px;
-  margin-bottom: 20px;
+  margin-bottom: 51px;
   margin-left: 40px;
 }
 
 .contacts,
 .tech-skills,
 .soft-skills {
-  margin: 40px;
+  margin: 40px 40px 60px 40px;
 }
 .soft-skills {
-  margin: 40px;
+  margin: 40px 40px 60px 40px;
 }
 
 .contacts {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 .sidebar-title {
   color: #ffffff;
